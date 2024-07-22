@@ -34,6 +34,7 @@ software data;
 
 ### Robot Arm
 
+3D data is available from [here(Autodesk Fusion)](https://a360.co/3WyrUXq)
 
 
 
