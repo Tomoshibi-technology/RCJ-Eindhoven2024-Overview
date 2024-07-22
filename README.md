@@ -25,8 +25,11 @@ RoboCupJunior OnStage Individual Team First Place -> ****World Champion****
 
 # Our Robots
 ### Moving Display
+Moving Display can fix the images for the place. 
 
+STL data;
 
+software data;
 
 
 ### Robot Arm
@@ -41,7 +44,7 @@ RoboCupJunior OnStage Individual Team First Place -> ****World Champion****
 
 
 # Circuit
-
+All robot's circuits are made by ourselves. If you want to show the data of the circuit, please visit this repository;
 
 
 
@@ -49,7 +52,6 @@ RoboCupJunior OnStage Individual Team First Place -> ****World Champion****
 ### Instgram
 
 ### X (Twitter)
-
 
 
 
